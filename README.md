@@ -2,17 +2,15 @@
 
 # Índice
 
-* [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresentações)](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
-* [Teste](#Requisitos-não-funcionais)
+  
 * 
 
 # Projeto (API) 
@@ -41,8 +39,7 @@ Futuramente
 
 
 # Equipe
-![Equipe][(https://www.canva.com/design/DAHWbjHD43M/HlzwXtMUNRZ3RO4QpCxCGA/edit)]
-
+![Membros Seven Solutions](https://www.canva.com/design/DAHWbjHD43M/HlzwXtMUNRZ3RO4QpCxCGA/edit)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo apresentar indicadores econômicos que formentem 
@@ -54,29 +51,28 @@ em São José dos Campos.
 
 Apresentação 
 
-[![Vídeo de apresentação])][(https://youtu.be/QslzWlds1wI)]
+[![Vídeo Kick Off](https://img.youtube.com/vi/QslzWlds1wI/0.jpg)](https://youtu.be/QslzWlds1wI)
 
 ## Tecnologias Utilizadas
-  ### Produto 
+   
   *Google Colab - Execução do código em nuvem
+  
   *Python - Filtragem da base RAIS em SJC
+  
   *Excel - Tratamento e organização da base
+  
   *Teams - Reuniões e comunicação da equipe
-  *Power BI - Construção de DashBoards 
-  *Canva - Identidade visual e materiais 
+  
+  *Power BI - Construção de DashBoards
+  
+  *Canva - Identidade visual e materiais
+  
   *ChatGPT - Apoio à programação generativa
+  
   *Claude - Associação de correspondências
   
 
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+ 
 
 # Cronograma das Sprints
 
