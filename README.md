@@ -81,7 +81,7 @@ Apresentação
 
 # Cronograma das Sprints
 
-## Cronograma
+## Relatório
 Abaixo segue o relátorio da primeira Sprint, com os nomes dos integrantes do grupo e a função de cada
 um deles dentro do projeto até o momento.
 
@@ -90,21 +90,6 @@ um deles dentro do projeto até o momento.
 [📥 Roteiro da Sprint 1](Roteiro_Sprint1.docx)
 
 
-# Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
-
-Regras de Negócio
-- 
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
 
   
 ## Requisitos não funcionais
