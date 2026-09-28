@@ -39,7 +39,7 @@ Futuramente
 # Equipe
 
 <p align="center">
-  <img src="Integrantes-Seven-Solutions.png" width="1000">
+  <img src="Integrantes Seven Solutions (1).png" width="1000">
 </p>
 
 
