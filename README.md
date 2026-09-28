@@ -80,9 +80,9 @@ Apresentação
 # Cronograma das Sprints
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Abaixo segue o relátorio da primeira Sprint, com os nomes dos integrantes do grupo e a função de cada
+um deles dentro do projeto até o momento.
 
-#### Cronograma das Sprints[(clique aqui)]
 ## 📄 Documentação
 
 [📥 Roteiro da Sprint 1](Roteiro_Sprint1.docx)
