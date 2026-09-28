@@ -7,7 +7,6 @@
 * [Funcionalidades e registros (vídeos e apresentações)](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
   
