@@ -113,8 +113,6 @@ Requisitos funcionais
   
 User stories
 
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
 ## Sprint 1. Concepção
