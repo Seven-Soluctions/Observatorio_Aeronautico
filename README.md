@@ -14,6 +14,9 @@
 
 # Projeto (API) 
 
+## 🔗 Link de Acesso
+Você pode interagir com o projeto referente a 1º Sprint através do link abaixo:
+👉 [Acessar Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzM1ZjFmYzYtMjhiNC00Zjk2LTg0OWItY2ExYjE2NDliMDI1IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&pageName=b0eda75f0b95818c30e0)
 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
