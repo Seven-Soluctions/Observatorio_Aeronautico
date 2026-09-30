@@ -1,4 +1,4 @@
-# Observatório de Inovação de São José dos Campos (API) 
+# Aprendizado por Projeto Integrado 1 SEM (API) 
 
 # Índice
 
