@@ -8,11 +8,7 @@
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
-  
-* 
-
-# Projeto (API) 
+* [Autores](#autores
 
 ## 🔗 Link de Acesso
 Você pode interagir com o projeto referente a 1º Sprint através do link abaixo:
